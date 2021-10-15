@@ -8,6 +8,7 @@ kysymykset = [kysymys1,kysymys2,kysymys3]
 vastaukset = ["Vatikaani", "Niili", "13"]
 kysymys = 3
 j = 0
+print("nyt lisäsin tänne jotain")
 
 start = input("Haluatko käynnistää pelin? Y/N: ")
 if start == "Y":
